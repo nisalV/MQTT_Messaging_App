@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MQTTConnect</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="publish">Publish</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="host">host uri</string>
+    <string name="port">port</string>
+    <string name="pubTopic">publish topic</string>
+    <string name="data">data</string>
+    <string name="subTopic">subscribe a topic</string>
+    <string name="qos">QoS</string>
+</resources>
